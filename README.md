@@ -1,6 +1,4 @@
-https://github.com/lowzzy/lowzzy/blob/output/github-contribution-grid-snake.gif
-
-
+![snake gif](https://github.com/lowzzy/lowzzy/blob/output/github-contribution-grid-snake.gif)
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowzzy&layout=compact&count_private=true&show_icons=true&theme=onedark" />
